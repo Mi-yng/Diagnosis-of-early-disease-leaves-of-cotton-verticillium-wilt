@@ -199,10 +199,7 @@ def save_results_to_csv(results, output_file):
 
 
 # 使用
-#folder_path = 'E:/2023FLUENCEtiff/0608_beijingxiaochu'
-#folder_path = "E:/2023FLUENCEtiff/0602_xiaochubeijing"
 folder_path = "E:/2023FLUENCEtiff/low_deal"
-#folder_path = "E:/2023FLUENCEtiff/0529beijingxiaochu"
 output_file = 'fluorescence_layers_low_deal_total.csv'
 
 
